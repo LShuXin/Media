@@ -7,7 +7,7 @@
 
 ## 海外 SEO
 
-![](./assets/facebook-sec.jpg)
+![](./assets/facebook-seo.jpg)
 
 ![](./assets/messenger-seo.jpg)
 
